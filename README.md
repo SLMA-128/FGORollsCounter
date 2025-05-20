@@ -40,17 +40,17 @@ It then automatically calculates the total number of rolls you can perform using
  Or download directly from:
     https://github.com/SLMA-128/FGORollsCounter/releases/tag/Release
 
-    Run the application:
+Run the application:
 
-python rolls_counter.py
+    python rolls_counter.py
 
-    Use the graphical interface:
+Use the graphical interface:
 
-        Enter the number of Saint Quartz, Fragments, and Tickets you have.
+    Enter the number of Saint Quartz, Fragments, and Tickets you have.
 
-        The total number of summon rolls will be calculated automatically.
+    The total number of summon rolls will be calculated automatically.
 
-        Press "Close" to exit the program.
+    Press "Close" to exit the program.
 
 🧮 Example
 
@@ -71,6 +71,7 @@ The calculation will be:
     5 Tickets → 5 rolls
 
 Total: 30 + 2 + 5 = 37 rolls
+
 📌 Notes
 
     Only numeric input is accepted. Empty fields are treated as 0.
