@@ -22,7 +22,7 @@ It then automatically calculates the total number of rolls you can perform using
 
 🖼️ Screenshot
 
-    ![imagen](https://github.com/user-attachments/assets/d79eae2f-57b4-4122-9c5f-50cb0a76fccd)
+    ![imagen](screenshot.png)
 
 📦 Requirements
 
@@ -32,13 +32,13 @@ It then automatically calculates the total number of rolls you can perform using
 
 🚀 How to Use
 
-    Clone or download this repository:
+ Clone or download this repository:
 
-git clone https://github.com/your_user/rolls-counter-fgo.git
-cd rolls-counter-fgo
+    git clone https://github.com/your_user/rolls-counter-fgo.git
+    cd rolls-counter-fgo
 
-🔽 Or download directly from:
-download.com/example
+ Or download directly from:
+    https://github.com/SLMA-128/FGORollsCounter/releases/tag/Release
 
     Run the application:
 
