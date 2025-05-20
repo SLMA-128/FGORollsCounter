@@ -20,10 +20,6 @@ It then automatically calculates the total number of rolls you can perform using
 
     1 Ticket = 1 roll
 
-🖼️ Screenshot
-
-    ![imagen](screenshot.png)
-
 📦 Requirements
 
     Python 3.6 or higher
@@ -66,7 +62,7 @@ The calculation will be:
 
     90 SQ → 30 rolls
 
-    42 Fragments → 2 rolls (since 42//21 = 2 SQ → 2//3 = 0 rolls, but the app counts 2 rolls directly from fragments)
+    42 Fragments → 2 rolls (7 Fragments = 1 SQ, 21 Fragments = 3 SQ = 1 roll)
 
     5 Tickets → 5 rolls
 
