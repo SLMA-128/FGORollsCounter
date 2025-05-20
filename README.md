@@ -77,5 +77,6 @@ Total: 30 + 2 + 5 = 37 rolls
 
 🛠️ Credits
 
-Created by Sarmiento Leonardo
+Created by Sarmiento Leonardo.
+
 Inspired by the summoning mechanics of Fate/Grand Order. To count how many rolls you might have for a certain servant in the future. (I'll get Morgan this time!)
