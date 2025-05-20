@@ -35,7 +35,7 @@ It then automatically calculates the total number of rolls you can perform using
 
  Or download directly from:
  
-    https://github.com/SLMA-128/FGORollsCounter/releases/tag/Release
+https://github.com/SLMA-128/FGORollsCounter/releases/tag/Release
 
 Run the application:
 
