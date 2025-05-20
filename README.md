@@ -1,6 +1,6 @@
 # Rolls Counter - Fate/Grand Order
 
-Rolls Counter is a simple desktop application built with Python using tkinter. It is specifically designed for Fate/Grand Order (FGO) players who want to calculate how many summon rolls they can perform based on their available resources: Saint Quartz (SQ), SQ Fragments, and Summon Tickets.
+Rolls Counter is a simple desktop application built with Python using tkinter. It is specifically designed for Fate/Grand Order (FGO) free to play players who want to calculate how many summons they can perform based on their available resources: Saint Quartz (SQ), SQ Fragments, and Summon Tickets.
 
 🧠 What Does This App Do?
 
